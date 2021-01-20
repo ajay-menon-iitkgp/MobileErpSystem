@@ -32,6 +32,8 @@ dependencies:
   firebase_auth: ^0.20.0+1
   # Firebase dependency (cloud firestore) for database connection
   cloud_firestore: ^0.16.0
+  # Provider package for auth listening
+  provider: ^4.3.3
 
 dev_dependencies:
   flutter_test:
