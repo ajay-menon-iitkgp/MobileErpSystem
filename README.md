@@ -1,16 +1,15 @@
-# spips_erp_trial
+# Mobile ERP System for Schools
 
-Trial for an ERP system for Suguna PIP School, restricted to a small trial base of users.
+ERP systems for schools have conventionally been ignored.
+The coveted Content Resource Management (CRM) systems have always been reserved for larger companies that require large scale
+database. Not for long, with this unique mobile ERP system that is bound to revolutionize the education industry.
 
-## Getting Started
+Note: This project is still under work, considering that it uses realtime databases and user authentication
+coupled with interactive and responsive UIs.
 
-This project is a starting point for a Flutter application.
+The primary coding language is Dart, developed by Flutter (a subsidiary of Google DevOps). My IDE
+is Android Studio, but the files run on other platforms including VS Code and IntelliJ. As the project progresses, this ReadMe
+will be regularly updated with significant features, and high-fidelity UI frameworks.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Cheers!
+**~ Ajay Menon**
