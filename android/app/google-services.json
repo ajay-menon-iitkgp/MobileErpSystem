@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "658181188912",
+    "project_id": "spips-erp-trial",
+    "storage_bucket": "spips-erp-trial.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:658181188912:android:04cd1b5239fd6ad4d3acf5",
+        "android_client_info": {
+          "package_name": "com.ajaymenon.spipserptrial"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "658181188912-8m1eedifqitskumse737ss7eauhrbpso.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB29MBJXzv2PcjW7KbAdAYUWlm4iFEWtIM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "658181188912-8m1eedifqitskumse737ss7eauhrbpso.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
